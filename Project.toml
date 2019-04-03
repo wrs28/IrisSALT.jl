@@ -1,0 +1,4 @@
+name = "IrisSALT"
+uuid = "a6ba56b0-5656-11e9-2bae-710ee715d732"
+authors = ["William R Sweeney <wrsweeney2@gmail.com>"]
+version = "0.1.0"
